@@ -1,0 +1,24 @@
+{
+    "name": "jquery-simplefolders",
+    "version": "0.0.1",
+    "title": "jquery-simplefolders",
+    "description": "jquery-simplefolders is simple code for a folder / tree widget for your html page",
+    "author": {
+        "name": "Philip Collins"
+    },
+    "keywords": [
+        "widget"
+    ],
+    "homepage": "https://github.com/collinsp/jquery-simplefolders/",
+    "download": "https://github.com/collinsp/jquery-simplefolders/tarball/master",
+    "demo": "http://x.sr.unh.edu/jquery-simplefolders",
+    "licenses": [
+        {
+            "type": "MIT license (MIT)",
+            "url": "http://http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
